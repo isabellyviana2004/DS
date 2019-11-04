@@ -1,4 +1,9 @@
-Aurivam Pinheiro Ferrerra
-aurivam
+Desenvolva uma aplicação em C# que calcule e exiba o salário reajustado 3 funcionários
 
-chega logo fim de ano Jesus.
+de acordo com a seguinte regra: 
+
+Salário até 300, reajuste de 50%; 
+Salários maiores que 300 e menores ou igual a 600, reajuste de 30%;
+salario maior que 600, reajuste de 80%.
+
+aplicar estrutura de repetiçaõ for para repetir o codigo 4 vezes e mandar o link via github.
