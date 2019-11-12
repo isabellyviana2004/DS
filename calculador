@@ -1,1 +1,22 @@
+private void executar_Click(object sender, EventArgs e)
+        {
+            int n1, n2, resultado;
 
+            n1 = Convert.ToInt16(textBox1.Text);
+            n2 = Convert.ToInt16(textBox2.Text);
+            resultado = n1 + n2;
+            textBox3.Text = Convert.ToString(resultado);
+
+        }
+
+        private void Limpar_Click(object sender, EventArgs e)
+        {
+            textBox1.Clear();
+            textBox2.Clear();
+            textBox3.Clear();
+        }
+
+        private void Sair_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
