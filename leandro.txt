@@ -7,3 +7,5 @@ Salários maiores que 300 e menores ou igual a 600, reajuste de 30%;
 salario maior que 600, reajuste de 80%.
   aurivam
 aplicar estrutura de repetiçaõ for para repetir o codigo 4 vezes e mandar o link via github.
+
+Aurivam
